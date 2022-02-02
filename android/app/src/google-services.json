@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246098973435",
+    "project_id": "pepzone-5afd2",
+    "storage_bucket": "pepzone-5afd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246098973435:android:a81a78463c930206cdd65e",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246098973435-qqlbsfil9jq4aa3h1jsm1t5htt06fppk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping",
+            "certificate_hash": "594f81a027d6d811d7764548792fdea2af0d584e"
+          }
+        },
+        {
+          "client_id": "246098973435-rko536qk756dtcuoaohlnbsovlme6c49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwibhmVjC6fYkNvsbEy2SmtPEK1SkOBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246098973435-rko536qk756dtcuoaohlnbsovlme6c49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
